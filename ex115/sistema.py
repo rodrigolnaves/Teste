@@ -21,4 +21,4 @@ while True:
     else:
         print(f'{cor("vermelho")}ERRO! Escolha uma opção válida.{cor("limpa")}')
     sleep(0.5)
-    print('\n' * 60)
+    print('\n' * 65)
